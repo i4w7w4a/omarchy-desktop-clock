@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "io.github.i4w7w4a.desktop-clock",
   "name": "Minute Ink — Classic Desktop Clock",
-  "version": "0.3.0",
+  "version": "1.0",
   "author": "Re_Pick",
   "description": "A large, classic-style desktop clock for Omarchy with click-through input, soft shimmer, hover lighting, and a searchable font picker.",
   "kinds": [
