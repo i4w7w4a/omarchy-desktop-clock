@@ -1,0 +1,15 @@
+{
+  "panel.title": "Desktop clock",
+  "language.title": "Clock settings language",
+  "language.ru": "Русский",
+  "language.en": "English",
+  "setting.fontFamily": "Font",
+  "font.inter": "Inter (bundled)",
+  "action.search": "Search fonts",
+  "action.cancel": "Cancel",
+  "action.apply": "Apply",
+  "status.noMatches": "No matching fonts",
+  "status.unavailable": "Could not load settings.",
+  "status.saving": "Saving…",
+  "status.saveFailed": "Could not save settings."
+}

@@ -1,0 +1,15 @@
+{
+  "panel.title": "Часы на рабочем столе",
+  "language.title": "Язык настроек часов",
+  "language.ru": "Русский",
+  "language.en": "English",
+  "setting.fontFamily": "Шрифт",
+  "font.inter": "Inter (в комплекте)",
+  "action.search": "Поиск шрифта",
+  "action.cancel": "Отменить",
+  "action.apply": "Применить",
+  "status.noMatches": "Шрифты не найдены",
+  "status.unavailable": "Не удалось загрузить настройки.",
+  "status.saving": "Сохраняем…",
+  "status.saveFailed": "Не удалось сохранить настройки."
+}
