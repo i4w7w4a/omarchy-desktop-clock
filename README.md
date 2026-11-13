@@ -1,6 +1,6 @@
-# Minute Ink
+# Minute Ink — Classic Desktop Clock
 
-A large desktop clock for Omarchy. It sits below the top bar, above the wallpaper, and behind application windows. The digits brighten and grow slightly on hover. A soft shimmer and a short minute transition keep the clock readable. The clock follows the system motion preference, and the settings panel offers font search in English and Russian.
+A large, classic-style desktop clock for Omarchy. It sits below the top bar, above the wallpaper, and behind application windows. The digits brighten and grow slightly on hover. A soft shimmer and a short minute transition keep the clock readable. The clock follows the system motion preference, and the settings panel offers font search in English and Russian.
 
 ![Minute Ink on an Omarchy desktop](preview.png)
 
